@@ -24,10 +24,10 @@ This project focuses on predicting the prices of vehicles using machine learning
 ## Features
 
 Key features and functionalities of this project include:
-
+- Preprocessing of the data
 - Predictive modeling of vehicle prices.
 - Feature importance analysis to understand which factors influence vehicle prices the most.
-- Regression model evaluation using metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+- Regression model evaluation.
 
 ## Getting Started
 
